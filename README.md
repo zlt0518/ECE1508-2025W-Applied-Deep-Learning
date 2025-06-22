@@ -1,6 +1,6 @@
 # ECE1508-2025W-Applied-Deep-Learning
 
-ECE1508W: special Topics in Communications: Applied Deep Learning 2025 Winter Assignments Programming Sections at the University of Toronto taught by Prof.Ali Bereyhi
+ECE1508W: Special Topics in Communications: Applied Deep Learning 2025 Winter Assignments Programming Sections at the University of Toronto taught by Prof.Ali Bereyhi
 
 The repository contains all the source code for Assignments 1-4 programming section
 
