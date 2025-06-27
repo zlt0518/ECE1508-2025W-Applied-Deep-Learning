@@ -4,7 +4,7 @@ ECE1508W: Special Topics in Communications: Applied Deep Learning 2025 Winter As
 
 Course Page: https://www.bereyhi.com/deep-learning
 
-The repository contains all the source code for Assignments 1-4 programming section
+The repository contains handouts and  all the source code for Assignments 1-4 programming section (No short answer parts)
 
 Assignment 1: 93/100
 
